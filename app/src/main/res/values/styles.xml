@@ -1,0 +1,49 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="EditText">
+        <item name="android:singleLine">true</item>
+        <item name="colorControlNormal">#FFFFFF</item>
+        <item name="colorControlActivated">#FFFFFF</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="NumberToCallTextView" parent="Base.Widget.AppCompat.TextView.SpinnerItem">
+        <item name="android:padding">16dp</item>
+        <item name="android:textSize">@dimen/textview_textsize_default</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="DigitButton" parent="Base.Widget.AppCompat.Button.Borderless">
+        <item name="android:textColor">@color/colorDigitButton</item>
+        <item name="android:textSize">64dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/btn_digit</item>
+    </style>
+
+    <style name="CallerButton" parent="Base.Widget.AppCompat.Button.Colored">
+        <item name="android:background">@drawable/btn_caller</item>
+        <item name="android:textSize">36sp</item>
+        <item name="android:textColor">@color/colorWhiteText</item>
+        <item name="android:padding">16dp</item>
+    </style>
+
+    <style name="DeleteButton" parent="Base.Widget.AppCompat.Button.Borderless">
+        <item name="android:background">@drawable/btn_delete</item>
+        <item name="android:drawableTop">@drawable/ic_cancel_black_56dp</item>
+    </style>
+
+</resources>

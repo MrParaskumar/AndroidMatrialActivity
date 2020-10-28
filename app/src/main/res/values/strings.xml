@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ImageEdit</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="slide_1_title">Capture Image And Selected Image</string>
+    <string name="slide_1_desc">Welcome to ImageEditer</string>
+    <string name="slide_2_title">Image Edit </string>
+    <string name="slide_2_desc">Welcome to ImageEditer</string>
+    <string name="slide_3_title">Gallery Image</string>
+    <string name="slide_3_desc">Welcome to ImageEditer</string>
+    <string name="msg_save_image">Are you want to exit without saving image ?</string>
+    <string name="btn_call">Call</string>
+    <string name="btn_digit_1">1</string>
+    <string name="btn_digit_2">2</string>
+    <string name="btn_digit_3">3</string>
+    <string name="btn_digit_4">4</string>
+    <string name="btn_digit_5">5</string>
+    <string name="btn_digit_6">6</string>
+    <string name="btn_digit_7">7</string>
+    <string name="btn_digit_8">8</string>
+    <string name="btn_digit_9">9</string>
+    <string name="btn_digit_0">0</string>
+    <string name="btn_digit_asterisk">*</string>
+    <string name="btn_digit_hashtag">#</string>
+    <string name="btn_digit_delete_all">C</string>
+    <string name="btn_digit_delete_once">B</string>
+    <string name="plus">+</string>
+    <string-array name="country_arrays">
+        <item>Choose Country</item>
+        <item>Bangladesh</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+
+</resources>
